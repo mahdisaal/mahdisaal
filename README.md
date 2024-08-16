@@ -13,7 +13,7 @@
 const mahdisa = {
   pronouns: "she" | "her",
   askMeAbout: ["web dev", "graphic", "design"],
-  code: [Javascript, HTML, CSS, C#, Python, MySql],
+  code: [JavaScript, HTML, CSS, C#, Python, MySQL, Java, PHP, PostgreSQ],
 }
 ```
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdisaal&show_icons=true)
