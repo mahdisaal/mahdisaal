@@ -1,7 +1,7 @@
 <h2> Hi, I'm Mahdisa!</h2>
 <img align='right' src="https://media.giphy.com/media/Rs0JBoGpPxMAlnVc8y/giphy.gif" width="230">
 
-<p><em>Web development student at <a href="https://www.algonquincollege.com/">Algonquin College</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Web developmer graduated from <a href="https://www.algonquincollege.com/">Algonquin College</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
 [![Linkedin: mahdisaalian](https://img.shields.io/badge/-mahdisaalian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahdisa-alian-7a4596260/)](https://www.linkedin.com/in/mahdisa-alian-7a4596260/) [![GitHub mahdisaal](https://img.shields.io/github/followers/mahdisaal?label=follow&style=social)](https://github.com/mahdisaal)
